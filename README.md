@@ -1,2 +1,2 @@
 # gittraining
-this is shaan
+i want to become pro in the world of coding
